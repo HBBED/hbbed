@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Habibe%20Davut&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Bilgisayar%20Mühendisliği%20Öğrencisi%20ve%20Araştırmacı&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=800&height=30&lines=Selçuk+Üniversitesi+Bilgisayar+Mühendisliği;Kuantum,+Siber+Güvenlik+ve+LLM+Araştırmacısı" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -35,12 +32,6 @@ Aşağıdaki ilgi alanları ve teknolojiler akademik gelişim hedeflerimle paral
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :bar_chart: &nbsp;GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabibeDavut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibeDavut&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
-</div>
 
 <br />
 
