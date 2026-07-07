@@ -35,12 +35,4 @@ Aşağıdaki ilgi alanları ve teknolojiler akademik gelişim hedeflerimle paral
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibeDavut&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
-
-<br />
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
